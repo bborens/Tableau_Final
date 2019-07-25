@@ -6,9 +6,6 @@
 
 [Link to Dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud507/baseball_data.csv)
 
-
-
-
 #### Summary
 
 This dataset contains the statistics of 1,157 unique professional baseball players, including attributes which contain their handedness, height in inches, weight, batting average, and home runs. The visualizations included in the Tableau published story examine the performance values among players. 
@@ -17,10 +14,9 @@ This dataset contains the statistics of 1,157 unique professional baseball playe
 
 [Initial_Story](https://public.tableau.com/views/InitialStory_15596803547140/BaseballInitialStory?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
 
-[Final_Story](https://public.tableau.com/views/FinalStory_15596803945390/BaseballInitialStory?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
+[Second Story](https://public.tableau.com/views/FinalStory_15596803945390/BaseballInitialStory?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
 
-[Final Story Fixed Based On Prior Feedback]
-(https://public.tableau.com/views/BaseballStoryFixed/Story2?:embed=y&:display_count=yes&:origin=viz_share_link)
+[Final Story](https://public.tableau.com/views/BaseballStoryFixed/Story2?:embed=y&:display_count=yes&:origin=viz_share_link)
 
 #### Design 
 
