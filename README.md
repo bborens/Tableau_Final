@@ -19,6 +19,8 @@ This dataset contains the statistics of 1,157 unique professional baseball playe
 
 [Final_Story](https://public.tableau.com/views/FinalStory_15596803945390/BaseballInitialStory?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
 
+[Final Story Fixed Based On Prior Feedback]
+(https://public.tableau.com/views/BaseballStoryFixed/Story2?:embed=y&:display_count=yes&:origin=viz_share_link)
 
 #### Design 
 
